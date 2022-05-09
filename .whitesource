@@ -20,7 +20,7 @@
   },
   "hostRules": [
     {
-      "matchHost": "https://svgwss.jfrog.io/artifactory/default-maven-local/org/whitesource/svg-maven-sample/",
+      "matchHost": "https://svgwss.jfrog.io/artifactory/default-maven-local/",
       "hostType": "maven",
       "username": "harkness.s@gmail.com",
       "encrypted": {
