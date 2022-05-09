@@ -7,18 +7,18 @@
 	<groupId>org.whitesource</groupId>
 	<artifactId>ktrain-privateregistry-demo</artifactId>
 	<version>1.0-SNAPSHOT</version>
-	    <distributionManagement>
-        <repository>
-            <id>central</id>
-            <name>a0sdp9p50cy9v-artifactory-primary-0-releases</name>
-            <url>https://svgwss.jfrog.io/artifactory/default-maven-virtual</url>
-        </repository>
-        <snapshotRepository>
-            <id>snapshots</id>
-            <name>a0sdp9p50cy9v-artifactory-primary-0-snapshots</name>
-            <url>https://svgwss.jfrog.io/artifactory/default-maven-virtual</url>
-        </snapshotRepository>
-    </distributionManagement>
+<distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>a0sdp9p50cy9v-artifactory-primary-0-releases</name>
+        <url>https://svgwss.jfrog.io/artifactory/default-maven-virtual</url>
+    </repository>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>a0sdp9p50cy9v-artifactory-primary-0-snapshots</name>
+        <url>https://svgwss.jfrog.io/artifactory/default-maven-virtual</url>
+    </snapshotRepository>
+</distributionManagement>
 	<dependencies>
 		<dependency>
 			<groupId>org.whitesourse</groupId>
