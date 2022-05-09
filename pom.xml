@@ -10,7 +10,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>org.whitesourse</groupId>
-			<artifactId>maven-sample</artifactId>
+			<artifactId>svg-maven-sample</artifactId>
 			<version>1.0-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
