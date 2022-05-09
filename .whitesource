@@ -17,5 +17,15 @@
     "workflowRules": {
       "enabled": true
     }
-  }
+  },
+  "hostRules": [
+    {
+      "matchHost": "https://svgwss.jfrog.io/artifactory/default-maven-local/org/whitesource/svg-maven-sample/",
+      "hostType": "maven",
+      "username": "harkness.s@gmail.com",
+      "encrypted": {
+        "password": "wcBMA8xOaBJvzJNbAQf9FI6Aa/WdXCPwYjcur1+njBJztdV0Jk/pjtbkUH9V5CqGnNoCUA0dhi+STNXyb0wYMH07yd03xVizTmrd6tl+eEKPfa2akQRz50uJo8dKgI5hJL7YotIkOAma4KiP7L92dlnJwN5OkovaHxHUGDZWurIpxW7a7pTVBOzIKGoCjUFqILvR85qW+KqUTw3EkQ9I+N3tTiogprHfNHTD8HGa5zzl5XeBBvhpdNDWmZPhBDBNxolhTiEh02OdAiiguOyTUMKm6hccE5Oop0lP7quqo4miAE2z/hWwIgl7784Ff3TkXOffCcOX97xENeaux/3p7p95V38jqhcWotPyxc3J9dJ3AVJMRQT+ZTL4zXcaaGrOGCCzUn1hXgGLjOYuLAl+JF4azv1Idha87P8Opoi0bfYROVi7tg5GZasOFdiD/SM9MmCpboZRr3IUi/xCSPuqXChPg1Ybtyuk2QI/zq3Fp6CJmRVZqppu+wnGOS/El5hQrFGZHj0DVkM"
+      }
+    }
+  ]
 }
